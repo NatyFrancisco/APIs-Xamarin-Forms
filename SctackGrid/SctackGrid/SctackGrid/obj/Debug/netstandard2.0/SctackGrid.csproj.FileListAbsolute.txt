@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\bin\Debug\netstandard2.0\SctackGrid.deps.json
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\bin\Debug\netstandard2.0\SctackGrid.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\bin\Debug\netstandard2.0\ref\SctackGrid.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\bin\Debug\netstandard2.0\SctackGrid.pdb
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.AssemblyInfo.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\ref\SctackGrid.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.pdb
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\Page.xaml.g.cs
