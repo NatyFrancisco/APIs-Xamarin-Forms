@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ApiFormularios.Views.PersonaPage">
+
+    <ScrollView>
+        <StackLayout>
+
+            <Label Text=" {Binding Id}"></Label>
+            <Label Text=" Nombre"></Label>
+            <Entry Text="{Binding Nombre}"></Entry>
+
+            <Label Text=" Apellido"></Label>
+            <Entry Text="{Binding Apellido}"></Entry>
+            
+            <Label Text=" Contacto"></Label>
+            <Entry Text="{Binding Contacto}" Keyboard="Numeric"></Entry>
+            <Label Text = "{Binding Nombre Completo}" TextColor ="DarkBlue"  ></Label>
+            <Button Text="Guardar" Command="{Binding GuardarCommand}"></Button>
+            <Button Text="Modificar" Command="{Binding ModificarCommand}"></Button>
+            <Button Text="Eliminar" Command="{Binding EliminarCommand}"></Button>
+            <Button Text="Limpiar" Command="{Binding LimpiarCommand}"></Button>
+
+
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"></ActivityIndicator>
+
+
+            <ListView x:Name="LvPersonas" ItemsSource="{Binding Personas}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell  Text="{Binding Contacto}" Detail="{Binding NombreCompleto}">
+                            
+                        </TextCell>
+                    </DataTemplate>
+                    
+                </ListView.ItemTemplate>
+                
+                
+                
+            </ListView>
+            
+            
+        </StackLayout>
+        
+        
+    </ScrollView>
+    
+    
+    
+</ContentPage>

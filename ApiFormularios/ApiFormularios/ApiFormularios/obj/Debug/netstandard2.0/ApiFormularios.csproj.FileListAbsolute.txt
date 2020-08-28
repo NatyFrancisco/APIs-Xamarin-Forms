@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\Pantalla2.xaml.g.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.AssemblyInfo.cs
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ref\ApiFormularios.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.pdb
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\bin\Debug\netstandard2.0\ApiFormularios.deps.json
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\bin\Debug\netstandard2.0\ApiFormularios.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\bin\Debug\netstandard2.0\ref\ApiFormularios.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\bin\Debug\netstandard2.0\ApiFormularios.pdb
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\bin\Debug\netstandard2.0\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\ApiFormularios\ApiFormularios\ApiFormularios\obj\Debug\netstandard2.0\ApiFormularios.csproj.CopyComplete

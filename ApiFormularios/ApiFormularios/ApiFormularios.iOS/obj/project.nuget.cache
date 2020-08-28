@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4rdyWkDutzLDEtoW/F+293SKZ887AB2qmxCfhncMWdpvCQZRK7JyfX3J8q/AWzVXKQ/2D/1WDbp1IA7BR9ecw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Proyectos Xamarin Forms\\ApiFormularios\\ApiFormularios\\ApiFormularios.iOS\\ApiFormularios.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
